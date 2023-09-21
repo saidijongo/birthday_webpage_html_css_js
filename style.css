@@ -1,0 +1,28 @@
+.body_backgorund 
+{
+    background-image:url(daminReal.gif);
+    background-color: red;
+    background-position:center;
+    background-size:cover;
+.daminGenius{
+  background-color: red;
+  color: aqua;
+  font-size: larger;
+
+}
+
+.jongo_footer{
+  text-align: center;
+  justify-content: center;
+  color: aqua;
+}
+
+}
+#myCanvas
+{
+  border-width: 15px; 
+  background-color: white;
+  border-style: ridge;
+  border-color: blue;
+}
+
